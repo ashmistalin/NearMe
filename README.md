@@ -256,9 +256,12 @@ Execute the programs and publish them.
 
 ```
 ## OUTPUT
-
-
-## HTML VALIDATOR
+![Screenshot (412)](https://github.com/selvasachein/NearMe/assets/103128410/5b625d97-2465-4a60-b66c-4138570ed2de)
+![Screenshot (413)](https://github.com/selvasachein/NearMe/assets/103128410/c9015f09-4571-4f4f-9767-2a9e2a0ade0d)
+![Screenshot (414)](https://github.com/selvasachein/NearMe/assets/103128410/321dedf7-89f5-4b3c-b120-6cf91c9e728b)
+![Screenshot (415)](https://github.com/selvasachein/NearMe/assets/103128410/53fa0c61-ee45-46ac-a51a-dbd6d69e2318)
+![Screenshot (416)](https://github.com/selvasachein/NearMe/assets/103128410/cea940b1-24b0-45cc-9ee3-060d7632d6ba)
+![Screenshot (417)](https://github.com/selvasachein/NearMe/assets/103128410/7622b1af-c4e6-47ef-83bf-0cfe7c687ca3)
 
 
 ## RESULT
