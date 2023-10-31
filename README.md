@@ -257,9 +257,17 @@ Execute the programs and publish them.
 
 ```
 ## OUTPUT
+![Screenshot (412)](https://github.com/selvasachein/NearMe/assets/103128410/896e03ae-d179-41d
+![Screenshot (417)](https://github.com/selvasachein/NearMe/assets/103128410/bd81bb8f-b514-4882-a25c-61f6a38c63e2)
+4
+![Screenshot (416)](https://github.com/selvasachein/NearMe/assets/103128410/9bd615b9-b2af-4df0-ac8e-b9b4bf326e49)
+-96c4-e91f44ffd761)
+![Screenshot (415)](https://github.com/selvasachein/NearMe/assets/103128410/0e075026-32c8-4ce7-b10d-d757649b9dab)
 
+![Screenshot (413)](https://github.com/selvasachein/NearMe/assets/103128410/54c
+![Screenshot (414)](https://github.com/selvasachein/NearMe/assets/103128410/9925f2bb-451d-4c61-b56d-712873d8bc70)
+4a04f-4009-440d-af4b-0dace765106d)
 
-## HTML VALIDATOR
 
 
 ## RESULT
